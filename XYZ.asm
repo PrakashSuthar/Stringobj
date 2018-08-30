@@ -1,4 +1,4 @@
-section .data
+section .data;This file is solely a part of Practice Seciton
 
 var: dq 0
 %macro scall 4
